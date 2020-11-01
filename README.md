@@ -1,1 +1,1 @@
-The main files are Snake.c, Snake.asm, and 
+The main files are Snake.c and Snake.asm
